@@ -1,0 +1,1 @@
+# OO patterns in JS
